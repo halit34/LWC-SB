@@ -9,7 +9,6 @@
 *               - Length, Price, Picture
 **************************************************************/
 public class GenerateData {
-
 public static final Map<String, List<Double>> BOAT_NAMES_GEOLOCATIONS = new Map<String, List<Double>> {
     'Sounder' => new List<Double> { 47.630068, -122.335491 }, 
     'Gallifrey Falls' => new List<Double> { 34.201658, -83.987133 }, 
